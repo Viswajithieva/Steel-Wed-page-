@@ -1,0 +1,68 @@
+/* Home.css */
+.navbar {
+  background-color: #004d40 !important; /* Dark Green */
+}
+
+
+.navbar {
+    background-color: #004d40 !important; /* Dark Green */
+  }
+  
+  .navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+  
+    color:#efece2 !important;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  
+  .nav-link {
+    color: white !important;
+    font-weight: 500;
+  }
+  
+  .nav-link:hover {
+    color: #ffcc00 !important; /* Yellow */
+  }
+  
+  .navbar-toggler {
+    border-color: white;
+  }
+  
+  .navbar-nav .nav-item .dropdown-menu {
+    background-color: #004d40;
+  }
+  
+  .navbar-nav .nav-item .dropdown-item {
+    color: white;
+  }
+  
+  .navbar-nav .nav-item .dropdown-item:hover {
+    background-color: #ffcc00;
+    color: rgb(228, 203, 203);
+  }
+  
+  .home img{
+    justify-content: center;
+    height: 92vh;
+  }
+   .title{
+    text-align: center;
+   margin-top: 250px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+ h1{
+  margin-left: 40px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+ p{
+  margin-left: 40px;
+  margin-right: 40px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: aqua;
+ }
+ .LOGO{
+  height: 50px;
+  width: 50px;
+ margin-right: 20px;
+ }
